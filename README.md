@@ -51,7 +51,7 @@ Currently it expects _one_ or _two_ arguments :
 * _Why can't objects be callable?_ (by Brandon Benvie) on [ES5-Discuss](https://esdiscuss.org/topic/why-can-t-objects-be-callable)
 * [Mozilla-Hacks-Series on ES6](https://hacks.mozilla.org/category/es6-in-depth/) esp. [Eric Faust](https://hacks.mozilla.org/author/efaustmozilla-com/) on JS-Classes and [Jason Ohrendorf](https://blog.mozilla.org/jorendorff/) on Proxies, Modules and Collections
 
-#### Some CS-examples
+#### Usage with CS
 
 1. **initialize a Dict-type with a flat JS-Array**
 
