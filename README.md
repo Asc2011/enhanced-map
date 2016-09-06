@@ -14,7 +14,7 @@ return plain-arrays. So they are not iterators anymore. One can safely use
 the CS (1.10) `for-in`-loop or `CS-slicing-notation` and `CS-splats` on these.
 The wrapped/subclassed-map is a public-property `.map` so all iterators can still
 be used if needed.
-The `forEach`-method is delegates so no changes were done.
+The `forEach`-method delegates to the JS-Map - no changes were done here.
 
 Instances of the enhanced-Map are callable, using this [recipe](https://stackoverflow.com/questions/17866654/replicating-pythons-call-in-javascript) by Dale Jung published on Stackoverflow in 2013. 
 The changed `MapWrapper`-class is called `Dict2`.
