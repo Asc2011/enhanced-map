@@ -2,7 +2,7 @@
 A enhanced ES6-Map-type 
 
 This repo contains two classes that improve the ES6-Map-type (a.k.a 'Simple Map').
-`MapWrapper` is a Coffeescript wrapper around the native Map. `_Map` is a subclasses Map-type.
+`MapWrapper` is a Coffeescript wrapper around the native Map. `_Map` is a subclassed native Map-type.
 Both should behave in the same way.
 
 A ES6-Map accepts either another Map or a nested-array of pairs as input to
